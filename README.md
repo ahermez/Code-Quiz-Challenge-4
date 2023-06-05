@@ -20,6 +20,7 @@ URL github Repository
 URL of the deployed application
 
 
+To view Test code page visit: https://ahermez.github.io/Code-Quiz-Challenge-4/
 For a full description of the project, visit the
 [project page] git@github.com:ahermez/Code-Quiz-Challenge-4.git
 
